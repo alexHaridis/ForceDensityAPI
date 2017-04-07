@@ -1,5 +1,6 @@
 <h1>Force Density Method</h1>
 
+<p><img src="https://cloud.githubusercontent.com/assets/9630033/24806568/42988c0c-1b83-11e7-97cc-bb8a29139a01.png" alt = "HTML" width="720" align="Center"/></p>
 <p>This is a standalone application for exploring the <em>Force Density Method (FDM)</em> with a regular grid structure written in Java using the <a href="https://www.processing.org">Processing API</a> for graphic elements, geometry, rendering and GUI. This application solves a grid with 36 number of nodes, 25 number of faces and 60 number of edges.</p>
 
 <p>The FDM method implemented here is presented in: Klaus Linkwitz, "Force Density Method," Ch.6 in Adriaenssens, S., Block, P., Veenendaal, D. &amp; Williams, C. 2014. <em>Shell Structures for Architecture: Form Finding and Optimization</em>, Taylor &amp; Francis.</p>
