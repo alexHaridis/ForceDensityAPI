@@ -4,8 +4,8 @@
  *  Dependencies: processing.core.PApplet  processing.core.PFont
  *                Jama.Matrix
  *
- *  Helper functions primarily for displaying geometry, text, operating with
- *  matrices in Processing API and Java.
+ *  Helper functions primarily for displaying geometry, text, operating 
+ *  with matrices in Processing API and Java.
  *  
  *  @author Alexandros Charidis, MIT
  *************************************************************************/
