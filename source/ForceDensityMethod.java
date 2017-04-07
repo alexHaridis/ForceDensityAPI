@@ -27,7 +27,7 @@ import toxi.geom.*;
 
 public class ForceDensityMethod {
 	
-	private BranchNodeGraph bng_;     // internal branch node graph
+    private BranchNodeGraph bng_;     // internal branch node graph
     private Vec3D p_;                 // load force
     private Jama.Matrix x_, y_, z_;   // evaluated coordinate vectors & boundary conditions
     private ArrayList<Vec3D> state_;  // state of the system after applying FDM
