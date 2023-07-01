@@ -1,6 +1,7 @@
 <h1>Force Density Method</h1>
 
-<p><img src="https://cloud.githubusercontent.com/assets/9630033/24806568/42988c0c-1b83-11e7-97cc-bb8a29139a01.png" alt = "HTML" width="720" align="Center"/></p>
+![force-density-method-thumb](https://github.com/alexHaridis/ForceDensityAPI/assets/9630033/25b83ad2-8995-415a-bba7-bf96d069c54f)
+
 <p>This is a standalone application for exploring the <em>Force Density Method (FDM)</em> with a regular grid structure. It is written in Java using the <a href="https://www.processing.org">Processing API</a> for graphic elements, geometry, rendering, and GUI. This application solves a grid with 36 nodes, 25 faces and 60 edges.</p>
 
 <p>The FDM method implemented here follows the description of the method in: Klaus Linkwitz (2014) "Force Density Method," Ch.6 in S. Adriaenssens, P. Block, D. Veenendaal, &amp; C. Williams. <em>Shell Structures for Architecture: Form Finding and Optimization</em>.</p>
