@@ -11,7 +11,7 @@
  *  nted internally with a custom data type <em>Branch</em> that keeps the
  *  branch 17. 
  *  
- *  @author Alexandros Charidis, Digital Structures, MIT
+ *  @author Alexandros Haridis | Digital Structures, MIT
  ******************************************************************************/
 
 import java.util.ArrayList;
