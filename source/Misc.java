@@ -121,13 +121,12 @@ public class Misc {
 	 */
 	public static void displayMark(PApplet p5, PFont font, int x, int y) {
 	    String string0 = "F o r c e  D e n s i t y  M e t h o d";
-	    String string1 = "Alexandros Charidis, MIT";
-	    String string2 = "charidis@mit.edu";
-	    String string3 = "4.s48 Computational Structural Design & Optimization";
-	    String string4 = "Spring 2015";
+	    String string1 = "Alexandros Haridis, MIT";
+	    String string2 = "4.s48 Computational Structural Design & Optimization";
+	    String string3 = "Spring 2015";
 	    
-	    String string5 = "Built with Processing";
-	    String string6 = "Using: Toxiclibs, PeasyCam, ControlP5 and Jama";
+	    String string4 = "Built with Processing";
+	    String string5 = "Using: Toxiclibs, PeasyCam, ControlP5, and Jama";
 	    
 	    int off = 20;
 	    
@@ -137,7 +136,6 @@ public class Misc {
 	    displaytext(p5, string3, font, 10, 0, 'L', x, y + 3*off + 10);
 	    displaytext(p5, string4, font, 10, 0, 'L', x, y + 4*off + 10);
 	    displaytext(p5, string5, font, 10, 0, 'L', x, y + 6*off + 10);
-	    displaytext(p5, string6, font, 10, 0, 'L', x, y + 7*off + 10);
 	}
 	
 	/**
