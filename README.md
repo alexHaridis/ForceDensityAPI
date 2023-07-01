@@ -6,7 +6,7 @@
 
 <p>The FDM method implemented here follows the description of the method in: Klaus Linkwitz (2014) "Force Density Method," Ch.6 in S. Adriaenssens, P. Block, D. Veenendaal, &amp; C. Williams. <em>Shell Structures for Architecture: Form Finding and Optimization</em>.</p>
 
-<p>For more information on the internal computational abstractions and the rest of the details of this implementation, please read the accompanying writeup (file <em>InteractOptimGridShells.pdf</em>).</p>
+<p>For more information on the internal computational abstractions and the rest of the details of this implementation, please read the accompanying writeup called <em>InteractOptimGridShells.pdf</em>.</p>
 
 <p>Dependencies: <a href="http://math.nist.gov/javanumerics/jama/">JAMA matrix package</a>, <a href="http://www.sojamo.de/libraries/controlP5/">ControlP5</a>, <a href="http://toxiclibs.org">toxiclibs</a>, <a href="http://mrfeinberg.com/peasycam/">peasycam</a>, <a href="https://www.seas.upenn.edu/~eeaton/software.html">Java Utility Functions</a>.</p>
 
