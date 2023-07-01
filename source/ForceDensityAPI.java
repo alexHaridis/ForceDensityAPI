@@ -8,8 +8,8 @@
  *  This is a standalone application for exploring the <em>Force Density Method
  *  (FDM)</em> with a regular grid structure written in Java using the Processing 
  *  API for graphic elements, geometry, rendering and GUI. This application
- *  solves a grid with 36 number of nodes, 25 number of faces and 60 number of
- *  edges. Other combinations of values can be explored by changing the
+ *  solves a grid with 36 nodes, 25 faces and 60 edges.
+ *  Other combinations of values can be explored by changing the
  *  appropriate variables.
  *  
  *  For more information on the FDM method implemented here, see:
