@@ -16,7 +16,7 @@
  *  P., Veenendaal, D. & Williams, C. 2014.<em>Shell Structures for 
  *  Architecture: Form Finding and Optimization</em>, Taylor & Francis. 
  *  
- *  @author Alexandros Charidis, Digital Structures, MIT
+ *  @author Alexandros Haridis | Digital Structures, MIT
  ***************************************************************************/
 
 import processing.core.PApplet;
