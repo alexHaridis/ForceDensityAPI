@@ -11,4 +11,4 @@
 <p>Dependencies: <a href="http://math.nist.gov/javanumerics/jama/">JAMA matrix package</a>, <a href="http://www.sojamo.de/libraries/controlP5/">ControlP5</a>, <a href="http://toxiclibs.org">toxiclibs</a>, <a href="http://mrfeinberg.com/peasycam/">peasycam</a>, <a href="https://www.seas.upenn.edu/~eeaton/software.html">Java Utility Functions</a>.</p>
 
 <h3> Acknowledgements </h3>
-<p>This application was developed as part of an assignment in the course 4.s48 Computational Structural Design and Optimization (now 4.450J/1.575J) taught by Prof. Caitlin Mueller at MIT, in the Spring semester of 2015.</p>
+<p>This application was developed in the Spring semester of 2015 by Alexandros Haridis, in the <a href="http://digitalstructures.mit.edu/page/design" target="_blank">Digital Structures Group</a> led by Prof. Caitlin Mueller at the <a href="https://architecture.mit.edu/" target="_blank">MIT Department of Architecture</a>.</p>
